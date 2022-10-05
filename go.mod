@@ -1,4 +1,4 @@
-module github.com/silaslenz/resxto18next
+module github.com/silaslenz/resxtoi18next
 
 go 1.19
 
